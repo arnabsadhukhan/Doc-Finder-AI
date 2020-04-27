@@ -1,0 +1,87 @@
+Political economy
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+Not to be confused with Economic policy.
+Part of a series on
+Economics
+IndexOutlineCategory
+HistoryBranchesClassification
+[show]
+ConceptsTheoryTechniques
+[show]
+By application[show]
+Notable economists[show]
+Lists[show]
+Glossary[show]
+Emblem-money.svg Business portal
+Bills and coins.svg Money portal
+vte
+Part of a series on
+Politics
+Ballot box
+Primary topics[show]
+Political systems[show]
+Academic disciplines[show]
+Public administration[show]
+Policy[show]
+Organs of government[show]
+Related topics[show]
+Subseries[show]
+Politics Portal
+vte
+
+Jean-Jacques Rousseau, Discours sur l'oeconomie politique, 1758
+Political economy is the study of production and trade and their relations with law, custom and government; and with the distribution of national income and wealth. As a discipline, political economy originated in moral philosophy, in the 18th century, to explore the administration of states' wealth, with "political" signifying the Greek word polity and "economy" signifying the Greek word "okonomie" (household management). The earliest works of political economy are usually attributed to the British scholars Adam Smith, Thomas Malthus, and David Ricardo, although they were preceded by the work of the French physiocrats, such as François Quesnay (1694–1774) and Anne-Robert-Jacques Turgot (1727–1781).[1]
+
+In the late 19th century, the term "economics" gradually began to replace the term "political economy" with the rise of mathematical modelling coinciding with the publication of an influential textbook by Alfred Marshall in 1890.[2] Earlier, William Stanley Jevons, a proponent of mathematical methods applied to the subject, advocated economics for brevity and with the hope of the term becoming "the recognised name of a science".[3][4] Citation measurement metrics from Google Ngram Viewer indicate that use of the term "economics" began to overshadow "political economy" around roughly 1910, becoming the preferred term for the discipline by 1920.[5] Today, the term "economics" usually refers to the narrow study of the economy absent other political and social considerations while the term "political economy" represents a distinct and competing approach.
+
+Political economy, where it is not used as a synonym for economics, may refer to very different things. From an academic standpoint, the term may reference Marxian economics, applied public choice approaches emanating from the Chicago school and the Virginia school. In common parlance, "political economy" may simply refer to the advice given by economists to the government or public on general economic policy or on specific economic proposals developed by political scientists.[4] A rapidly growing mainstream literature from the 1970s has expanded beyond the model of economic policy in which planners maximize utility of a representative individual toward examining how political forces affect the choice of economic policies, especially as to distributional conflicts and political institutions.[6] It is available as a stand-alone area of study in certain colleges and universities.
+
+
+Contents
+1	Etymology
+2	Current approaches
+3	Related disciplines
+4	See also
+5	Notes
+6	References
+7	Journals
+8	External links
+Etymology
+Originally, political economy meant the study of the conditions under which production or consumption within limited parameters was organized in nation-states. In that way, political economy expanded the emphasis of economics, which comes from the Greek oikos (meaning "home") and nomos (meaning "law" or "order"). Political economy was thus meant to express the laws of production of wealth at the state level, just as economics was the ordering of the home. The phrase économie politique (translated in English as "political economy") first appeared in France in 1615 with the well-known book by Antoine de Montchrétien, Traité de l’economie politique. Other contemporary scholars derive the roots of this study to the 13th Century Tunisian Arab Historian and Sociologist, Ibn Khaldun, for his work on making the distinction between "profit" and "sustenance", in modern political economy terms, surplus and that required for the reproduction of classes respectively. He also calls for the creation of a science to explain society and goes on to outline these ideas in his major work, the Muqaddimah. In Al-Muqaddimah Khaldun states, “Civilization and its well-being, as well as business prosperity, depend on productivity and people’s efforts in all directions in their own interest and profit” – seen as a modern precursor to Classical Economic thought.
+
+Leading on from this, the French physiocrats were the first major exponents of political economy, although the intellectual responses of Adam Smith, John Stuart Mill, David Ricardo, Henry George and Karl Marx to the physiocrats generally receives much greater attention.[7] The world's first professorship in political economy was established in 1754 at the University of Naples Federico II in southern Italy. The Neapolitan philosopher Antonio Genovesi was the first tenured professor. In 1763, Joseph von Sonnenfels was appointed a Political Economy chair at the University of Vienna, Austria. Thomas Malthus, in 1805, became England's first professor of political economy, at the East India Company College, Haileybury, Hertfordshire. In its contemporary meaning, political economy refers to different yet related approaches to studying economic and related behaviours, ranging from the combination of economics with other fields to the use of different, fundamental assumptions that challenge earlier economic assumptions:
+
+Current approaches
+
+Robert Keohane, international relations theorist
+Political economy most commonly refers to interdisciplinary studies drawing upon economics, sociology and political science in explaining how political institutions, the political environment, and the economic system—capitalist, socialist, communist, or mixed—influence each other.[8] The Journal of Economic Literature classification codes associate political economy with three sub-areas: (1) the role of government and/or class and power relationships in resource allocation for each type of economic system;[9] (2) international political economy, which studies the economic impacts of international relations;[10] and (3) economic models of political or exploitative class processes.[11] Much of the political economy approach is derived from public choice theory on the one hand and radical political economics on the other hand, both dating from the 1960s.
+
+Public choice theory is a microfoundations theory that is closely intertwined with political economy. Both approaches model voters, politicians and bureaucrats as behaving in mainly self-interested ways, in contrast to a view, ascribed to earlier mainstream economists, of government officials trying to maximize individual utilities from some kind of social welfare function.[12] As such, economists and political scientists often associate political economy with approaches using rational-choice assumptions,[13] especially in game theory[14] and in examining phenomena beyond economics' standard remit, such as government failure and complex decision making in which context the term "positive political economy" is common.[15] Other "traditional" topics include analysis of such public policy issues as economic regulation,[16] monopoly, rent-seeking, market protection,[17] institutional corruption[18] and distributional politics.[19] Empirical analysis includes the influence of elections on the choice of economic policy, determinants and forecasting models of electoral outcomes, the political business cycles,[20] central-bank independence and the politics of excessive deficits.[21]
+
+A more recent focus has been on modeling economic policy and political institutions as to interactions between agents and economic and political institutions,[22] including the seeming discrepancy of economic policy and economist's recommendations through the lens of transaction costs.[23] From the mid-1990s, the field has expanded, in part aided by new cross-national data sets that allow tests of hypotheses on comparative economic systems and institutions.[24] Topics have included the breakup of nations,[25] the origins and rate of change of political institutions in relation to economic growth,[26] development,[27] financial markets and regulation,[28] the importance of institutions,[29] backwardness,[30] reform[31] and transition economies,[32] the role of culture, ethnicity and gender in explaining economic outcomes,[6] macroeconomic policy,[33] the environment,[34] fairness[35] and the relation of constitutions to economic policy, theoretical[36] and empirical.[37]
+
+Other important landmarks in the development of political economy include:
+
+New political economy which may treat economic ideologies as the phenomenon to explain, per the traditions of Marxian political economy. Thus, Charles S. Maier suggests that a political economy approach "interrogates economic doctrines to disclose their sociological and political premises.... in sum, [it] regards economic ideas and behavior not as frameworks for analysis, but as beliefs and actions that must themselves be explained".[38] This approach informs Andrew Gamble's The Free Economy and the Strong State (Palgrave Macmillan, 1988), and Colin Hay's The Political Economy of New Labour (Manchester University Press, 1999). It also informs much work published in New Political Economy, an international journal founded by Sheffield University scholars in 1996.[39]
+International political economy (IPE) an interdisciplinary field comprising approaches to the actions of various actors. In the United States, these approaches are associated with the journal International Organization, which in the 1970s became the leading journal of IPE under the editorship of Robert Keohane, Peter J. Katzenstein and Stephen Krasner. They are also associated with the journal The Review of International Political Economy. There also is a more critical school of IPE, inspired by thinkers such as Antonio Gramsci and Karl Polanyi; two major figures are Matthew Watson and Robert W. Cox.[40]
+The use of a political economy approach by anthropologists, sociologists, and geographers used in reference to the regimes of politics or economic values that emerge primarily at the level of states or regional governance, but also within smaller social groups and social networks. Because these regimes influence and are influenced by the organization of both social and economic capital, the analysis of dimensions lacking a standard economic value (e.g. the political economy of language, of gender, or of religion) often draws on concepts used in Marxian critiques of capital. Such approaches expand on neo-Marxian scholarship related to development and underdevelopment postulated by André Gunder Frank and Immanuel Wallerstein.
+Historians have employed political economy to explore the ways in the past that persons and groups with common economic interests have used politics to effect changes beneficial to their interests.[41]
+Political economy and law is a recent attempt within legal scholarship to engage explicitly with political economy literature. In the 1920s and 1930s, legal realists (e.g. Robert Hale) and intellectuals (e.g. John Commons) engaged themes related to political economy. In the second half of the 20th century, lawyers associated with the Chicago School incorporated certain intellectual traditions from economics. However, since the crisis in 2007 legal scholars especially related to international law, have turned to more explicitly engage with the debates, methodology and various themes within political economy texts.[42][43]
+Thomas Piketty's approach and call to action which advocated for the re-introduction of political consideration and political science knowledge more generally into the discipline of economics as a way of improving the robustness of the discipline and remedying its shortcomings, which had become clear following the 2008 financial crisis.[44]
+In 2010, the only Department of Political Economy in the United Kingdom formally established at King's College London. The rationale for this academic unit was that "the disciplines of Politics and Economics are inextricably linked", and that it was "not possible to properly understand political processes without exploring the economic context in which politics operates".[45]
+In 2017, the Political Economy UK Group (abbreviated PolEconUK) was established as a research consortium in the field of political economy. It hosts an annual conference and counts among its member institutions Oxford, Cambridge, King's College London, Warwick University and the London School of Economics.[46]
+Related disciplines
+Because political economy is not a unified discipline, there are studies using the term that overlap in subject matter, but have radically different perspectives:[47]
+
+Politics studies power relations and their relationship to achieving desired ends.
+Philosophy rigorously assesses and studies a set of beliefs and their applicability to reality.
+Economics studies the distribution of resources so that the material wants of a society are satisfied; enhance societal well-being.
+Sociology studies the effects of persons' involvement in society as members of groups and how that changes their ability to function. Many sociologists start from a perspective of production-determining relation from Karl Marx. Marx's theories on the subject of political economy are contained in his book Das Kapital.
+Anthropology studies political economy by investigating regimes of political and economic value that condition tacit aspects of sociocultural practices (e.g. the pejorative use of pseudo-Spanish expressions in the U.S. entertainment media) by means of broader historical, political and sociological processes. Analyses of structural features of transnational processes focus on the interactions between the world capitalist system and local cultures.
+Archaeology attempts to reconstruct past political economies by examining the material evidence for administrative strategies to control and mobilize resources.[48] This evidence may include architecture, animal remains, evidence for craft workshops, evidence for feasting and ritual, evidence for the import or export of prestige goods, or evidence for food storage.
+Psychology is the fulcrum on which political economy exerts its force in studying decision making (not only in prices), but as the field of study whose assumptions model political economy.
+History documents change, often using it to argue political economy; some historical works take political economy as the narrative's frame.
+Ecology deals with political economy because human activity has the greatest effect upon the environment, its central concern being the environment's suitability for human activity. The ecological effects of economic activity spur research upon changing market economy incentives. Additionally and more recently, ecological theory has been used to examine economic systems as similar systems of interacting species (e.g., firms).[49]
+Cultural studies examines social class, production, labor, race, gender and sex.
+Communications examines the institutional aspects of media and telecommunication systems. As the area of study focusing on aspects of human communication, it pays particular attention to the relationships between owners, labor, consumers, advertisers, structures of production and the state and the power relationships embedded in these relationships.

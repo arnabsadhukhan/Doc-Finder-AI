@@ -1,0 +1,147 @@
+Development economics
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+This article is about the academic field. For the broader context, see Economic development.
+Part of a series on
+Economics
+IndexOutlineCategory
+HistoryBranchesClassification
+[show]
+ConceptsTheoryTechniques
+[show]
+By application[show]
+Notable economists[show]
+Lists[show]
+Glossary[show]
+Emblem-money.svg Business portal
+Bills and coins.svg Money portal
+vte
+Development economics is a branch of economics which deals with economic aspects of the development process in low income countries. Its focus is not only on methods of promoting economic development, economic growth and structural change but also on improving the potential for the mass of the population, for example, through health, education and workplace conditions, whether through public or private channels.[1]
+
+Development economics involves the creation of theories and methods that aid in the determination of policies and practices and can be implemented at either the domestic or international level.[2] This may involve restructuring market incentives or using mathematical methods such as intertemporal optimization for project analysis, or it may involve a mixture of quantitative and qualitative methods.[3]
+
+Unlike in many other fields of economics, approaches in development economics may incorporate social and political factors to devise particular plans.[4] Also unlike many other fields of economics, there is no consensus on what students should know.[5] Different approaches may consider the factors that contribute to economic convergence or non-convergence across households, regions, and countries.[6]
+
+
+Contents
+1	Theories of development economics
+1.1	Mercantilism and physiocracy
+1.2	Economic nationalism
+1.3	Post-WWII theories
+1.4	Linear-stages-of-growth model
+1.5	Structural-change theory
+1.6	International dependence theory
+1.7	Neoclassical theory
+2	Topics of research
+2.1	Geography and Development
+2.2	Economic development and ethnicity
+2.2.1	The role of ethnicity in economic development
+2.2.2	Economic development and its impact on ethnic conflict
+2.2.3	Recovery from conflict (civil war)
+3	Growth indicator controversy
+4	Recent developments
+5	Notable development economists
+6	See also
+7	Footnotes
+8	Bibliography
+9	External links
+Theories of development economics
+Mercantilism and physiocracy
+
+World GDP per capita, from 1400 to 2003 CE
+Main article: Mercantilism
+The earliest Western theory of development economics was mercantilism, which developed in the 17th century, paralleling the rise of the nation state. Earlier theories had given little attention to development. For example, scholasticism, the dominant school of thought during medieval feudalism, emphasized reconciliation with Christian theology and ethics, rather than development. The 16th- and 17th-century School of Salamanca, credited as the earliest modern school of economics, likewise did not address development specifically.
+
+Major European nations in the 17th and 18th century all adopted mercantilist ideals to varying degrees, the influence only ebbing with the 18th-century development of physiocrats in France and classical economics in Britain. Mercantilism held that a nation's prosperity depended on its supply of capital, represented by bullion (gold, silver, and trade value) held by the state. It emphasised the maintenance of a high positive trade balance (maximising exports and minimising imports) as a means of accumulating this bullion. To achieve a positive trade balance, protectionist measures such as tariffs and subsidies to home industries were advocated. Mercantilist development theory also advocated colonialism.
+
+Theorists most associated with mercantilism include Philipp von Hörnigk, who in his Austria Over All, If She Only Will of 1684 gave the only comprehensive statement of mercantilist theory, emphasizing production and an export-led economy.[7] In France, mercantilist policy is most associated with 17th-century finance minister Jean-Baptiste Colbert, whose policies proved influential in later American development.
+
+Mercantilist ideas continue in the theories of economic nationalism and neomercantilism.
+
+Economic nationalism
+
+Alexander Hamilton, credited as Father of the National System
+Main article: Economic nationalism
+Following mercantilism was the related theory of economic nationalism, promulgated in the 19th century related to the development and industrialization of the United States and Germany, notably in the policies of the American System in America and the Zollverein (customs union) in Germany. A significant difference from mercantilism was the de-emphasis on colonies, in favor of a focus on domestic production.
+
+The names most associated with 19th-century economic nationalism are the American Alexander Hamilton, the German-American Friedrich List, and the American Henry Clay. Hamilton's 1791 Report on Manufactures, his magnum opus, is the founding text of the American System, and drew from the mercantilist economies of Britain under Elizabeth I and France under Colbert. List's 1841 Das Nationale System der Politischen Ökonomie (translated into English as The National System of Political Economy), which emphasized stages of growth, proved influential in the US and Germany, and nationalist policies were pursued by politician Henry Clay, and later by Abraham Lincoln, under the influence of economist Henry Charles Carey.
+
+Forms of economic nationalism and neomercantilism have also been key in Japan's development in the 19th and 20th centuries, and the more recent development of the Four Asian Tigers (Hong Kong, South Korea, Taiwan, and Singapore), and, most significantly, China.
+
+Following Brexit and the 2016 United States presidential election, some experts have argued a new kind of "self-seeking capitalism" popularly known as Trumponomics could have a considerable impact on cross-border investment flows and long-term capital allocation[8][9]
+
+Post-WWII theories
+See also: Industrial development and Ragnar Nurkse's balanced growth theory
+The origins of modern development economics are often traced to the need for, and likely problems with the industrialization of eastern Europe in the aftermath of World War II.[10] The key authors are Paul Rosenstein-Rodan,[11] Kurt Mandelbaum,[12] Ragnar Nurkse,[13] and Sir Hans Wolfgang Singer. Only after the war did economists turn their concerns towards Asia, Africa and Latin America. At the heart of these studies, by authors such as Simon Kuznets and W. Arthur Lewis[14] was an analysis of not only economic growth but also structural transformation.[15]
+
+Linear-stages-of-growth model
+An early theory of development economics, the linear-stages-of-growth model was first formulated in the 1950s by W. W. Rostow in The Stages of Growth: A Non-Communist Manifesto, following work of Marx and List. This theory modifies Marx's stages theory of development and focuses on the accelerated accumulation of capital, through the utilization of both domestic and international savings as a means of spurring investment, as the primary means of promoting economic growth and, thus, development.[4] The linear-stages-of-growth model posits that there are a series of five consecutive stages of development which all countries must go through during the process of development. These stages are "the traditional society, the pre-conditions for take-off, the take-off, the drive to maturity, and the age of high mass-consumption"[16] Simple versions of the Harrod–Domar model provide a mathematical illustration of the argument that improved capital investment leads to greater economic growth.[4]
+
+Such theories have been criticized for not recognizing that, while necessary, capital accumulation is not a sufficient condition for development. That is to say that this early and simplistic theory failed to account for political, social and institutional obstacles to development. Furthermore, this theory was developed in the early years of the Cold War and was largely derived from the successes of the Marshall Plan. This has led to the major criticism that the theory assumes that the conditions found in developing countries are the same as those found in post-WWII Europe.[4]
+
+Structural-change theory
+Structural-change theory deals with policies focused on changing the economic structures of developing countries from being composed primarily of subsistence agricultural practices to being a "more modern, more urbanized, and more industrially diverse manufacturing and service economy." There are two major forms of structural-change theory: W. Lewis' two-sector surplus model, which views agrarian societies as consisting of large amounts of surplus labor which can be utilized to spur the development of an urbanized industrial sector, and Hollis Chenery's patterns of development approach, which holds that different countries become wealthy via different trajectories. The pattern that a particular country will follow, in this framework, depends on its size and resources, and potentially other factors including its current income level and comparative advantages relative to other nations.[17][18] Empirical analysis in this framework studies the "sequential process through which the economic, industrial and institutional structure of an underdeveloped economy is transformed over time to permit new industries to replace traditional agriculture as the engine of economic growth."[4]
+
+Structural-change approaches to development economics have faced criticism for their emphasis on urban development at the expense of rural development which can lead to a substantial rise in inequality between internal regions of a country. The two-sector surplus model, which was developed in the 1950s, has been further criticized for its underlying assumption that predominantly agrarian societies suffer from a surplus of labor. Actual empirical studies have shown that such labor surpluses are only seasonal and drawing such labor to urban areas can result in a collapse of the agricultural sector. The patterns of development approach has been criticized for lacking a theoretical framework.[4][citation needed]
+
+International dependence theory
+International dependence theories gained prominence in the 1970s as a reaction to the failure of earlier theories to lead to widespread successes in international development. Unlike earlier theories, international dependence theories have their origins in developing countries and view obstacles to development as being primarily external in nature, rather than internal. These theories view developing countries as being economically and politically dependent on more powerful, developed countries which have an interest in maintaining their dominant position. There are three different, major formulations of international dependence theory: neocolonial dependence theory, the false-paradigm model, and the dualistic-dependence model. The first formulation of international dependence theory, neocolonial dependence theory, has its origins in Marxism and views the failure of many developing nations to undergo successful development as being the result of the historical development of the international capitalist system.[4]
+
+Neoclassical theory
+First gaining prominence with the rise of several conservative governments in the developed world during the 1980s, neoclassical theories represent a radical shift away from International Dependence Theories. Neoclassical theories argue that governments should not intervene in the economy; in other words, these theories are claiming that an unobstructed free market is the best means of inducing rapid and successful development. Competitive free markets unrestrained by excessive government regulation are seen as being able to naturally ensure that the allocation of resources occurs with the greatest efficiency possible and the economic growth is raised and stabilized.[4][citation needed]
+
+It is important to note that there are several different approaches within the realm of neoclassical theory, each with subtle, but important, differences in their views regarding the extent to which the market should be left unregulated. These different takes on neoclassical theory are the free market approach, public-choice theory, and the market-friendly approach. Of the three, both the free-market approach and public-choice theory contend that the market should be totally free, meaning that any intervention by the government is necessarily bad. Public-choice theory is arguably the more radical of the two with its view, closely associated with libertarianism, that governments themselves are rarely good and therefore should be as minimal as possible.[4]
+
+Academic economists have given varied policy advice to governments of developing countries. See for example, Economy of Chile (Arnold Harberger), Economic history of Taiwan (Sho-Chieh Tsiang). Anne Krueger noted in 1996 that success and failure of policy recommendations worldwide had not consistently been incorporated into prevailing academic writings on trade and development.[4]
+
+The market-friendly approach, unlike the other two, is a more recent development and is often associated with the World Bank. This approach still advocates free markets but recognizes that there are many imperfections in the markets of many developing nations and thus argues that some government intervention is an effective means of fixing such imperfections.[4]
+
+Topics of research
+Development economics also includes topics such as third world debt, and the functions of such organisations as the International Monetary Fund and World Bank. In fact, the majority of development economists are employed by, do consulting with, or receive funding from institutions like the IMF and the World Bank.[19] Many such economists are interested in ways of promoting stable and sustainable growth in poor countries and areas, by promoting domestic self-reliance and education in some of the lowest income countries in the world. Where economic issues merge with social and political ones, it is referred to as development studies.
+
+Geography and Development
+Economists Jeffrey D. Sachs, Andrew Mellinger, and John Gallup argue that a nation's geographical location and topography are key determinants and predictors of its economic prosperity.[20] Areas developed along the coast and near "navigable waterways" are far wealthier and more densely populated than those further inland. Furthermore, countries outside the tropic zones, which have more temperate climates, have also developed considerably more than those located within the Tropic of Cancer and the Tropic of Capricorn. These climates outside the tropic zones, described as "temperate-near," hold roughly a quarter of the world's population and produce more than half of the world's GNP, yet only comprise of only 8.4% of the world's inhabited area.[20] Understanding of these different geographies and climates is imperative, they argue, because future aid programs and policies to facilitate must account for these differences.
+
+Economic development and ethnicity
+A growing body of research has been emerging among development economists since the very late 20th century focusing on interactions between ethnic diversity and economic development, particularly at the level of the nation-state. While most research looks at empirical economics at both the macro and the micro level, this field of study has a particularly heavy sociological approach. The more conservative branch of research focuses on tests for causality in the relationship between different levels of ethnic diversity and economic performance, while a smaller and more radical branch argues for the role of neoliberal economics in enhancing or causing ethnic conflict. Moreover, comparing these two theoretical approaches brings the issue of endogeneity (endogenicity) into questions. This remains a highly contested and uncertain field of research, as well as politically sensitive, largely due to its possible policy implications.
+
+The role of ethnicity in economic development
+Much discussion among researchers centers around defining and measuring two key but related variables: ethnicity and diversity. It is debated whether ethnicity should be defined by culture, language, or religion. While conflicts in Rwanda were largely along tribal lines, Nigeria's string of conflicts is thought to be – at least to some degree – religiously based.[21] Some have proposed that, as the saliency of these different ethnic variables tends to vary over time and across geography, research methodologies should vary according to the context.[22] Somalia provides an interesting example. Due to the fact that about 85% of its population defined themselves as Somali, Somalia was considered to be a rather ethnically-homogeneous nation.[22] However, civil war caused ethnicity (or ethnic affiliation) to be redefined according to clan groups.[22]
+
+There is also much discussion in academia concerning the creation of an index for "ethnic heterogeneity". Several indices have been proposed in order to model ethnic diversity (with regards to conflict). Easterly and Levine have proposed an ethno-linguistic fractionalization index defined as FRAC or ELF defined by:
+
+{\displaystyle 1-\sum _{i=1}^{N}s_{i}^{2},}1-\sum _{{i=1}}^{{N}}s_{i}^{2},
+where si is size of group i as a percentage of total population.[22] The ELF index is a measure of the probability that two randomly chosen individuals belong to different ethno-linguistic groups.[22] Other researchers have also applied this index to religious rather than ethno-linguistic groups.[23] Though commonly used, Alesina and La Ferrara point out that the ELF index fails to account for the possibility that fewer large ethnic groups may result in greater inter-ethnic conflict than many small ethnic groups.[22] More recently, researchers such as Montalvo and Reynal-Querol, have put forward the Q polarization index as a more appropriate measure of ethnic division.[24] Based on a simplified adaptation of a polarization index developed by Esteban and Ray, the Q index is defined as
+
+{\displaystyle Q=1-\sum _{i=1}^{N}\left({\frac {{\tfrac {1}{2}}-s_{i}}{\tfrac {1}{2}}}\right)^{2}\times s_{i},}Q=1-\sum _{{i=1}}^{{N}}\left({\frac  {{\tfrac  {1}{2}}-s_{i}}{{\tfrac  {1}{2}}}}\right)^{2}\times s_{i},
+where si once again represents the size of group i as a percentage of total population, and is intended to capture the social distance between existing ethnic groups within an area.[24]
+
+Early researchers, such as Jonathan Pool, considered a concept dating back to the account of the Tower of Babel: that linguistic unity may allow for higher levels of development.[25] While pointing out obvious oversimplifications and the subjectivity of definitions and data collection, Pool suggested that we had yet to see a robust economy emerge from a nation with a high degree of linguistic diversity.[25] In his research Pool used the "size of the largest native-language community as a percentage of the population" as his measure of linguistic diversity.[25] Not much later, however, Horowitz pointed out that both highly diverse and highly homogeneous societies exhibit less conflict than those in between.[26] Similarly, Collier and Hoeffler provided evidence that both highly homogenous and highly heterogeneous societies exhibit lower risk of civil war, while societies that are more polarized are at greater risk.[27] As a matter of fact, their research suggests that a society with only two ethnic groups is about 50% more likely to experience civil war than either of the two extremes.[27] Nonetheless, Mauro points out that ethno-linguistic fractionalization is positively correlated with corruption, which in turn is negatively correlated with economic growth.[28] Moreover, in a study on economic growth in African countries, Easterly and Levine find that linguistic fractionalization plays a significant role in reducing national income growth and in explaining poor policies.[29][30] In addition, empirical research in the U.S., at the municipal level, has revealed that ethnic fractionalization (based on race) may be correlated with poor fiscal management and lower investments in public goods.[31] Finally, more recent research would propose that ethno-linguistic fractionalization is indeed negatively correlated with economic growth while more polarized societies exhibit greater public consumption, lower levels of investment and more frequent civil wars.[29]
+
+Economic development and its impact on ethnic conflict
+Increasingly, attention is being drawn to the role of economics in spawning or cultivating ethnic conflict. Critics of earlier development theories, mentioned above, point out that "ethnicity" and ethnic conflict cannot be treated as exogenous variables.[32] There is a body of literature which discusses how economic growth and development, particularly in the context of a globalizing world characterized by free trade, appears to be leading to the extinction and homogenization of languages.[33] Manuel Castells asserts that the "widespread destructuring of organizations, delegitimation of institutions, fading away of major social movements, and ephemeral cultural expressions" which characterize globalization lead to a renewed search for meaning; one that is based on identity rather than on practices.[34] Barber and Lewis argue that culturally-based movements of resistance have emerged as a reaction to the threat of modernization (perceived or actual) and neoliberal development.[35][36]
+
+On a different note, Chua suggests that ethnic conflict often results from the envy of the majority toward a wealthy minority which has benefited from trade in a neoliberal world.[32] She argues that conflict is likely to erupt through political manipulation and the vilification of the minority.[32] Prasch points out that, as economic growth often occurs in tandem with increased inequality, ethnic or religious organizations may be seen as both assistance and an outlet for the disadvantaged.[32] However, empirical research by Piazza argues that economics and unequal development have little to do with social unrest in the form of terrorism.[37] Rather, "more diverse societies, in terms of ethnic and religious demography, and political systems with large, complex, multiparty systems were more likely to experience terrorism than were more homogeneous states with few or no parties at the national level".[37]
+
+Recovery from conflict (civil war)
+Violent conflict and economic development are deeply intertwined. Paul Collier[38] describes how poor countries are more prone to civil conflict. The conflict lowers incomes catching countries in a "conflict trap." Violent conflict destroys physical capital (equipment and infrastructure), diverts valuable resources to military spending, discourages investment and disrupts exchange.[39]
+
+Recovery from civil conflict is very uncertain. Countries that maintain stability can experience a "peace dividend," through the rapid re-accumulation of physical capital (investment flows back to the recovering country because of the high return).[40] However, successful recovery depends on the quality of legal system and the protection of private property.[41] Investment is more productive in countries with higher quality institutions. Firms that experienced a civil war were more sensitive to the quality of the legal system that firm similar firms that had never been exposed to conflict.[42]
+
+Growth indicator controversy
+Per capita Gross Domestic Product (GDP per head) is used by many developmental economists as an approximation of general national well-being. However, these measures are criticized as not measuring economic growth well enough, especially in countries where there is much economic activity that is not part of measured financial transactions (such as housekeeping and self-homebuilding), or where funding is not available for accurate measurements to be made publicly available for other economists to use in their studies (including private and institutional fraud, in some countries).
+
+Even though per-capita GDP as measured can make economic well-being appear smaller than it really is in some developing countries, the discrepancy could be still bigger in a developed country where people may perform outside of financial transactions an even higher-value service than housekeeping or homebuilding as gifts or in their own households, such as counseling, lifestyle coaching, a more valuable home décor service, and time management. Even free choice can be considered to add value to lifestyles without necessarily increasing the financial transaction amounts.
+
+More recent theories of Human Development have begun to see beyond purely financial measures of development, for example with measures such as medical care available, education, equality, and political freedom. One measure used is the Genuine Progress Indicator, which relates strongly to theories of distributive justice. Actual knowledge about what creates growth is largely unproven; however recent advances in econometrics and more accurate measurements in many countries is creating new knowledge by compensating for the effects of variables to determine probable causes out of merely correlational statistics.
+
+Recent developments
+See also: Fair trade movement
+Recent theories revolve around questions about what variables or inputs correlate or affect economic growth the most: elementary, secondary, or higher education, government policy stability, tariffs and subsidies, fair court systems, available infrastructure, availability of medical care, prenatal care and clean water, ease of entry and exit into trade, and equality of income distribution (for example, as indicated by the Gini coefficient), and how to advise governments about macroeconomic policies, which include all policies that affect the economy. Education enables countries to adapt the latest technology and creates an environment for new innovations.
+
+The cause of limited growth and divergence in economic growth lies in the high rate of acceleration of technological change by a small number of developed countries. These countries' acceleration of technology was due to increased incentive structures for mass education which in turn created a framework for the population to create and adapt new innovations and methods. Furthermore, the content of their education was composed of secular schooling that resulted in higher productivity levels and modern economic growth.
+
+Researchers at the Overseas Development Institute also highlight the importance of using economic growth to improve the human condition, raising people out of poverty and achieving the Millennium Development Goals.[43] Despite research showing almost no relation between growth and the achievement of the goals 2 to 7 and statistics showing that during periods of growth poverty levels in some cases have actually risen (e.g. Uganda grew by 2.5% annually between 2000–2003, yet poverty levels rose by 3.8%), researchers at the ODI suggest growth is necessary, but that it must be equitable.[43] This concept of inclusive growth is shared even by key world leaders such as former Secretary General Ban Ki-moon, who emphasises that:
+
+"Sustained and equitable growth based on dynamic structural economic change is necessary for making substantial progress in reducing poverty. It also enables faster progress towards the other Millennium Development Goals. While economic growth is necessary, it is not sufficient for progress on reducing poverty."[43]
+Researchers at the ODI thus emphasise the need to ensure social protection is extended to allow universal access and that active policy measures are introduced to encourage the private sector to create new jobs as the economy grows (as opposed to jobless growth) and seek to employ people from disadvantaged groups.[43]

@@ -1,0 +1,57 @@
+A Brief History of Economics
+FACEBOOK
+TWITTER
+LINKEDIN
+By ANDREW BEATTIE
+ Updated Mar 23, 2020
+TABLE OF CONTENTS
+Smith: The Father of Economics
+Marx and Malthus
+Speaking in Numbers
+Keynesian vs. Austrian Economics
+Milton Friedman & Monetarism
+The Bottom Line
+Economics is the science that concerns itself with economies; that is, it is studies how societies produce goods and services to how they consume them. It has influenced world finance at many important junctions throughout history and is a vital part of our everyday lives. The assumptions that guide the study of economics, have changed dramatically throughout history, however. Here, we take just a brief look at the history of modern economic thought. Of course, people have been curious about these matters at all times and all over the world. So, what we present is just a narrow snapshot, and one that focuses primarily on Western European and American strands of thought.
+
+
+KEY TAKEAWAYS
+Economics is the science of how goods and services are produced and consumed. 
+Adam Smith used the ideas of French writers to create a thesis on how economies should work, while Karl Marx and Thomas Malthus expanded on his work—focusing on how scarcity drives economies.
+Leon Walras and Alfred Marshall used statistics and mathematics to express economic concepts, such as economies of scale.
+John Maynard Keynes’ economic theories are still used today by the Federal Reserve to manage monetary policy.
+Most modern economic theories are based on the work of Milton Friedman, which suggests more capital in the system lessens the need for government involvement.
+The Father of Economics
+Economic thought goes as far back as the ancient Greeks, and is known to have been an important topic in the ancient Middle East. However, today, Scottish thinker Adam Smith is widely credited for creating the field of economics. However, he was inspired by French writers who shared his hatred of mercantilism. In fact, the first methodical study of how economies work was undertaken by these French physiocrats. Smith took many of their ideas and expanded them into a thesis about how economies should work, as opposed to how they do work.
+
+
+Smith believed that competition was self-regulating and governments should take no part in business through tariffs, taxes, or other means unless it was to protect free market competition. Many economic theories today are, at least in part, a reaction to Smith's pivotal work in the field, namely his 1776 masterpiece The Wealth of Nations. In this book, Smith laid out several of the mechanisms of capitalist production, free markets, and value. Smith showed that individuals acting in their own self-interest could, as if guided by an "invisible hand", create social and economic stability and prosperity for all.
+
+
+The Dismal Science: Marx and Malthus
+Karl Marx and Thomas Malthus had decidedly poor reactions to Smith's treatise. Malthus predicted that growing populations would outstrip the food supply. He was proven wrong, however, because he didn't foresee technological innovations that would allow production to keep pace with a growing population. Nonetheless, his work shifted the focus of economics to the scarcity of things, versus the demand for them.
+
+This increased focus on scarcity led Karl Marx to declare the means of production were the most important components in any economy. Marx took his ideas further and became convinced a class war was going to be initiated by the inherent instabilities he saw in capitalism. However, Marx underestimated the flexibility of capitalism. Instead of creating a clear owner and worker class, investing created a mixed class where owners and workers hold the interests of both classes, in balance. Despite his overly rigid theory, Marx did accurately predicted one trend: businesses grew larger and more powerful, in accordance with to degree that free-market capitalism allowed.
+
+
+Speaking in Numbers
+Leon Walras, a French economist, gave economics a new language in his book, “Elements of Pure Economics.” Walras went to the roots of economic theory and made models and theories that reflected what he found there. General equilibrium theory came from his work, as well as the tendency to express economic concepts statistically and mathematically, instead of just in prose. Alfred Marshall took the mathematical modeling of economies to new heights, introducing many concepts that are still not fully understood, such as economies of scale, marginal utility, and the real-cost paradigm.
+
+
+It is nearly impossible to expose an economy to experimental rigor, therefore, economics is on the edge of science. Through mathematical modeling, however, some economic theory has been rendered testable. Walras was not alone in creating the so-called neoclassical school of economics - defined by mathematical modelling and assumptions of rational actors and efficient markets. His contemporaries include the likes of Alfred Marshall, William Jevons, and Arthur Pigou.
+
+Keynesian vs. Austrian Economics
+John Maynard Keynes' mixed economy was a response to charges levied by Marx that capitalist societies aren't self-correcting. Marx saw this as a fatal flaw, whereas Keynes saw this as a chance for the government to justify its existence. Keynesian economics is the code of action that the Federal Reserve follows, to keep the economy running smoothly. Keynes' theory says that governments can be powerful players in the economy and save it from recession by implementing expansionary fiscal and monetary policy - such as increased government spending, lower taxes, and lower interest rates.
+
+Challenging Keynes' theory were the Austrian economists, some of which include Carl Menger, Ludwig von Mises, and F.A. Hayek. For the Austrians, the government should not at all be involved. Instead, unfettered free markets should be allowed to operate without any intervention. Markets alone, for the Austrians, are able to solve economic problems large and small through the law of supply and demand. Of course, for this to work markets must be efficient and market actors must be rational.
+
+Milton Friedman and the Monetarists
+Chicago School is a neoclassical economic school of thought that originated at the University of Chicago in the 1930s. The main tenets of the Chicago School are that free markets best allocate resources in an economy and that minimal, or even no, government intervention is best for economic prosperity. The Chicago School includes monetarist beliefs about the economy, contending that the money supply should be kept in equilibrium with the demand for money. Chicago School theory is also applied to other disciplines, including finance and law.
+
+This differed from the Austrians in a fundamental way, by believing in monetarism. Monetarism states that the supply of money in an economy is the primary driver of economic growth. As the availability of money in the system increases, aggregate demand for goods and services goes up. An increase in aggregate demand encourages job creation, which reduces the rate of unemployment and stimulates economic growth. However, in the long-term, the increasing demand will eventually be greater than supply, causing a disequilibrium in the markets. The shortage caused by a greater demand than supply will force prices to go up, leading to inflation.
+
+The Chicago School's most prominent alumnus was Nobel Laureate Milton Friedman, whose theories were drastically different from Keynesian economics, the prevailing school of economic thought at the time. The theories developed there were based on intense mathematical modeling to test disparate hypotheses.
+
+The economic policies of the last two decades all bear the marks of Milton Friedman's work. As the U.S. economy matured, Friedman argued the government had to begin removing the redundant controls it had imposed upon the market, such as antitrust legislation. Rather than growing bigger on the increasing gross domestic product (GDP), Friedman thought governments should focus on consuming less of an economy's capital so more remained in the system. With more capital in the system, it would be possible for the economy to operate without any government interference.
+
+The Bottom Line
+Economic thought has diverged into two streams: theoretical and practical. Theoretical economics uses the language of mathematics, statistics and, computational modeling to test pure concepts that, in turn, help economists understand the truths of practical economics and shape them into governmental policy. The business cycle, boom and bust cycles, and anti-inflation measures are outgrowths of economics; understanding them helps the market and government adjust for these variables.

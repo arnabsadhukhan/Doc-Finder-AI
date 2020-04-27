@@ -1,0 +1,168 @@
+Quantum gravity
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+Quantum gravity (QG) is a field of theoretical physics that seeks to describe gravity according to the principles of quantum mechanics, and where quantum effects cannot be ignored,[1] such as in the vicinity of black holes or similar compact astrophysical objects where the effects of gravity are strong.
+
+Three of the four fundamental forces of physics are described within the framework of quantum mechanics and quantum field theory. The current understanding of the fourth force, gravity, is based on Albert Einstein's general theory of relativity, which is formulated within the entirely different framework of classical physics. However that description is incomplete: Describing the gravitational field of a black hole in the general theory of relativity, physical quantities such as the spacetime curvature diverge at the center of the black hole. This signals the break down of the general theory of relativity and the need for a theory that goes beyond general relativity. At distances very close to the center of the black hole (closer than the Planck length), quantum fluctuations of spacetime are expected to play an important role [2]. To describe these quantum effects a theory of quantum gravity is needed. Such a theory should allow to extend the description closer to the center and might even allow to understand physics at the center of a black hole. On more formal grounds one can argue that a classical system cannot consistently be coupled to a quantum one.[3][4]:11–12
+
+The field of quantum gravity is actively developing and theorists are exploring a variety of approaches to the problem of quantum gravity, the most popular approaches being string theory and loop quantum gravity.[5] All these approaches aim to describe the quantum behavior of the gravitational field. This does not necessarily include unifying all fundamental interactions into a single mathematical framework. However, many approaches to quantum gravity, such as string theory, try to develop a framework that describes all fundamental forces. Such theories are often referred to as a theory of everything. Others, such as loop quantum gravity, make no such attempt; instead, they make an effort to quantize the gravitational field while it is kept separate from the other forces.
+
+One of the difficulties of formulating a quantum gravity theory is that quantum gravitational effects only appear at length scales near the Planck scale, around 10−35 meters, a scale far smaller, and hence only accessible with far higher energies, than those currently available in high energy particle accelerators. Therefore, physicists lack experimental data which could distinguish between the competing theories which have been proposed[n.b. 1][n.b. 2] and thus thought experiment approaches are suggested as a testing tool for these theories.[6][7][8]
+
+
+Contents
+1	Overview
+2	Quantum mechanics and general relativity
+2.1	Graviton
+2.2	Dilaton
+2.3	Nonrenormalizability of gravity
+2.4	Quantum gravity as an effective field theory
+2.5	Spacetime background dependence
+2.5.1	String theory
+2.5.2	Background independent theories
+2.6	Semi-classical quantum gravity
+2.7	Problem of time
+3	Candidate theories
+3.1	String theory
+3.2	Loop quantum gravity
+3.3	Other approaches
+4	Experimental tests
+5	Thought experiments
+6	See also
+7	Notes
+8	References
+9	Further reading
+10	External links
+Overview
+Question, Web Fundamentals.svg	Unsolved problem in physics:
+How can the theory of quantum mechanics be merged with the theory of general relativity / gravitational force and remain correct at microscopic length scales? What verifiable predictions does any theory of quantum gravity make?
+(more unsolved problems in physics)
+
+Diagram showing the place of quantum gravity in the hierarchy of physics theories
+Much of the difficulty in meshing these theories at all energy scales comes from the different assumptions that these theories make on how the universe works. General relativity models gravity as curvature of spacetime: in the slogan of John Archibald Wheeler, "Spacetime tells matter how to move; matter tells spacetime how to curve."[9] On the other hand, quantum field theory is typically formulated in the flat spacetime used in special relativity. No theory has yet proven successful in describing the general situation where the dynamics of matter, modeled with quantum mechanics, affect the curvature of spacetime. If one attempts to treat gravity as simply another quantum field, the resulting theory is not renormalizable.[10] Even in the simpler case where the curvature of spacetime is fixed a priori, developing quantum field theory becomes more mathematically challenging, and many ideas physicists use in quantum field theory on flat spacetime are no longer applicable.[11]
+
+It is widely hoped that a theory of quantum gravity would allow us to understand problems of very high energy and very small dimensions of space, such as the behavior of black holes, and the origin of the universe.[1]
+
+Quantum mechanics and general relativity
+
+Gravity Probe B (GP-B) has measured spacetime curvature near Earth to test related models in application of Einstein's general theory of relativity.
+Graviton
+Main article: Graviton
+At present, one of the deepest problems in theoretical physics is harmonizing the theory of general relativity, which describes gravitation and applies to large-scale structures (stars, planets, galaxies), with quantum mechanics, which describes the other three fundamental forces acting on the atomic scale. This problem must be put in the proper context, however. In particular, contrary to the popular claim that quantum mechanics and general relativity are fundamentally incompatible, one can demonstrate that the structure of general relativity essentially follows inevitably from the quantum mechanics of interacting theoretical spin-2 massless particles (called gravitons).[12][13][14][15][16]
+
+The observation that all fundamental forces except gravity have one or more known messenger particles leads researchers to believe that at least one must exist for gravity. This hypothetical particle is known as the graviton. The predicted find would result in the classification of the graviton as a force particle similar to the photon of the electromagnetic interaction. Many of the accepted notions of a unified theory of physics since the 1970s assume, and to some degree depend upon, the existence of the graviton. These include string theory, superstring theory, and M-theory. Detection of gravitons would help to validate these various lines of research in unifying quantum mechanics and general relativity.
+
+The Weinberg–Witten theorem places some constraints on theories in which the graviton is a composite particle.[17][18]
+
+Dilaton
+Main article: Dilaton
+The dilaton made its first appearance in Kaluza–Klein theory, a five-dimensional theory that combined gravitation and electromagnetism. It appears in string theory. However, it's become central to the lower-dimensional many-bodied gravity problem[19] based on the field theoretic approach of Roman Jackiw. The impetus arose from the fact that complete analytical solutions for the metric of a covariant N-body system have proven elusive in general relativity. To simplify the problem, the number of dimensions was lowered to 1+1 - one spatial dimension and one temporal dimension. This model problem, known as R=T theory,[20] as opposed to the general G=T theory, was amenable to exact solutions in terms of a generalization of the Lambert W function. Also, the field equation governing the dilaton, derived from differential geometry, as the Schrödinger equation could be amenable to quantization.[21]
+
+This combines gravity, quantization, and even the electromagnetic interaction, promising ingredients of a fundamental physical theory. This outcome revealed a previously unknown and already existing natural link between general relativity and quantum mechanics. There lacks clarity in the generalization of this theory to 3+1 dimensions. However, a recent derivation in 3+1 dimensions under the right coordinate conditions yields a formulation similar to the earlier 1+1, a dilaton field governed by the logarithmic Schrödinger equation[22] that is seen in condensed matter physics and superfluids. The field equations are amenable to such a generalization, as shown with the inclusion of a one-graviton process,[23] and yield the correct Newtonian limit in d dimensions, but only with a dilaton. Furthermore, some speculate on the view of the apparent resemblance between the dilaton and the Higgs boson.[24] However, there needs more experimentation to resolve the relationship between these two particles. Finally, since this theory can combine gravitational, electromagnetic, and quantum effects, their coupling could potentially lead to a means of testing the theory through cosmology and experimentation.
+
+Nonrenormalizability of gravity
+Further information: Renormalization
+General relativity, like electromagnetism, is a classical field theory. One might expect that, as with electromagnetism, the gravitational force should also have a corresponding quantum field theory.
+
+However, gravity is perturbatively nonrenormalizable.[4]:xxxvi–xxxviii;211–212[25] For a quantum field theory to be well defined according to this understanding of the subject, it must be asymptotically free or asymptotically safe. The theory must be characterized by a choice of finitely many parameters, which could, in principle, be set by experiment. For example, in quantum electrodynamics these parameters are the charge and mass of the electron, as measured at a particular energy scale.
+
+On the other hand, in quantizing gravity there are, in perturbation theory, infinitely many independent parameters (counterterm coefficients) needed to define the theory. For a given choice of those parameters, one could make sense of the theory, but since it is impossible to conduct infinite experiments to fix the values of every parameter, it has been argued that one does not, in perturbation theory, have a meaningful physical theory. At low energies, the logic of the renormalization group tells us that, despite the unknown choices of these infinitely many parameters, quantum gravity will reduce to the usual Einstein theory of general relativity. On the other hand, if we could probe very high energies where quantum effects take over, then every one of the infinitely many unknown parameters would begin to matter, and we could make no predictions at all.[citation needed]
+
+It is conceivable that, in the correct theory of quantum gravity, the infinitely many unknown parameters will reduce to a finite number that can then be measured. One possibility is that normal perturbation theory is not a reliable guide to the renormalizability of the theory, and that there really is a UV fixed point for gravity. Since this is a question of non-perturbative quantum field theory, it is difficult to find a reliable answer, but some people still pursue this option. Another possibility is that there are new, undiscovered symmetry principles that constrain the parameters and reduce them to a finite set. This is the route taken by string theory, where all of the excitations of the string essentially manifest themselves as new symmetries.[26][better source needed]
+
+Quantum gravity as an effective field theory
+Main article: Effective field theory
+In an effective field theory, all but the first few of the infinite set of parameters in a nonrenormalizable theory are suppressed by huge energy scales and hence can be neglected when computing low-energy effects. Thus, at least in the low-energy regime, the model is a predictive quantum field theory.[27] Furthermore, many theorists argue that the Standard Model should be regarded as an effective field theory itself, with "nonrenormalizable" interactions suppressed by large energy scales and whose effects have consequently not been observed experimentally.[28]
+
+By treating general relativity as an effective field theory, one can actually make legitimate predictions for quantum gravity, at least for low-energy phenomena. An example is the well-known calculation of the tiny first-order quantum-mechanical correction to the classical Newtonian gravitational potential between two masses.[27]
+
+Spacetime background dependence
+Main article: Background independence
+A fundamental lesson of general relativity is that there is no fixed spacetime background, as found in Newtonian mechanics and special relativity; the spacetime geometry is dynamic. While easy to grasp in principle, this is the hardest idea to understand about general relativity, and its consequences are profound and not fully explored, even at the classical level. To a certain extent, general relativity can be seen to be a relational theory,[29] in which the only physically relevant information is the relationship between different events in space-time.
+
+On the other hand, quantum mechanics has depended since its inception on a fixed background (non-dynamic) structure. In the case of quantum mechanics, it is time that is given and not dynamic, just as in Newtonian classical mechanics. In relativistic quantum field theory, just as in classical field theory, Minkowski spacetime is the fixed background of the theory.
+
+String theory
+
+Interaction in the subatomic world: world lines of point-like particles in the Standard Model or a world sheet swept up by closed strings in string theory
+String theory can be seen as a generalization of quantum field theory where instead of point particles, string-like objects propagate in a fixed spacetime background, although the interactions among closed strings give rise to space-time in a dynamical way. Although string theory had its origins in the study of quark confinement and not of quantum gravity, it was soon discovered that the string spectrum contains the graviton, and that "condensation" of certain vibration modes of strings is equivalent to a modification of the original background. In this sense, string perturbation theory exhibits exactly the features one would expect of a perturbation theory that may exhibit a strong dependence on asymptotics (as seen, for example, in the AdS/CFT correspondence) which is a weak form of background dependence.
+
+Background independent theories
+Loop quantum gravity is the fruit of an effort to formulate a background-independent quantum theory.
+
+Topological quantum field theory provided an example of background-independent quantum theory, but with no local degrees of freedom, and only finitely many degrees of freedom globally. This is inadequate to describe gravity in 3+1 dimensions, which has local degrees of freedom according to general relativity. In 2+1 dimensions, however, gravity is a topological field theory, and it has been successfully quantized in several different ways, including spin networks.
+
+Semi-classical quantum gravity
+Quantum field theory on curved (non-Minkowskian) backgrounds, while not a full quantum theory of gravity, has shown many promising early results. In an analogous way to the development of quantum electrodynamics in the early part of the 20th century (when physicists considered quantum mechanics in classical electromagnetic fields), the consideration of quantum field theory on a curved background has led to predictions such as black hole radiation.
+
+Phenomena such as the Unruh effect, in which particles exist in certain accelerating frames but not in stationary ones, do not pose any difficulty when considered on a curved background (the Unruh effect occurs even in flat Minkowskian backgrounds). The vacuum state is the state with the least energy (and may or may not contain particles). See Quantum field theory in curved spacetime for a more complete discussion.
+
+Problem of time
+Main article: Problem of time
+A conceptual difficulty in combining quantum mechanics with general relativity arises from the contrasting role of time within these two frameworks. In quantum theories time acts as an independent background through which states evolve, with the Hamiltonian operator acting as the generator of infinitesimal translations of quantum states through time.[30] In contrast, general relativity treats time as a dynamical variable which interacts directly with matter and moreover requires the Hamiltonian constraint to vanish,[31] removing any possibility of employing a notion of time similar to that in quantum theory.
+
+Candidate theories
+There are a number of proposed quantum gravity theories.[32] Currently, there is still no complete and consistent quantum theory of gravity, and the candidate models still need to overcome major formal and conceptual problems. They also face the common problem that, as yet, there is no way to put quantum gravity predictions to experimental tests, although there is hope for this to change as future data from cosmological observations and particle physics experiments becomes available.[33][34]
+
+String theory
+Main article: String theory
+
+Projection of a Calabi–Yau manifold, one of the ways of compactifying the extra dimensions posited by string theory
+One suggested starting point is ordinary quantum field theories which are successful in describing the other three basic fundamental forces in the context of the standard model of elementary particle physics. However, while this leads to an acceptable effective (quantum) field theory of gravity at low energies,[27] gravity turns out to be much more problematic at higher energies. For ordinary field theories such as quantum electrodynamics, a technique known as renormalization is an integral part of deriving predictions which take into account higher-energy contributions,[35] but gravity turns out to be nonrenormalizable: at high energies, applying the recipes of ordinary quantum field theory yields models that are devoid of all predictive power.[36]
+
+One attempt to overcome these limitations is to replace ordinary quantum field theory, which is based on the classical concept of a point particle, with a quantum theory of one-dimensional extended objects: string theory.[37] At the energies reached in current experiments, these strings are indistinguishable from point-like particles, but, crucially, different modes of oscillation of one and the same type of fundamental string appear as particles with different (electric and other) charges. In this way, string theory promises to be a unified description of all particles and interactions.[38] The theory is successful in that one mode will always correspond to a graviton, the messenger particle of gravity; however, the price of this success are unusual features such as six extra dimensions of space in addition to the usual three for space and one for time.[39]
+
+In what is called the second superstring revolution, it was conjectured that both string theory and a unification of general relativity and supersymmetry known as supergravity[40] form part of a hypothesized eleven-dimensional model known as M-theory, which would constitute a uniquely defined and consistent theory of quantum gravity.[41][42] As presently understood, however, string theory admits a very large number (10500 by some estimates) of consistent vacua, comprising the so-called "string landscape". Sorting through this large family of solutions remains a major challenge.
+
+Loop quantum gravity
+Main article: Loop quantum gravity
+
+Simple spin network of the type used in loop quantum gravity
+Loop quantum gravity seriously considers general relativity's insight that spacetime is a dynamical field and is therefore a quantum object. Its second idea is that the quantum discreteness that determines the particle-like behavior of other field theories (for instance, the photons of the electromagnetic field) also affects the structure of space.
+
+The main result of loop quantum gravity is the derivation of a granular structure of space at the Planck length. This is derived from following considerations: In the case of electromagnetism, the quantum operator representing the energy of each frequency of the field has a discrete spectrum. Thus the energy of each frequency is quantized, and the quanta are the photons. In the case of gravity, the operators representing the area and the volume of each surface or space region likewise have discrete spectrum. Thus area and volume of any portion of space are also quantized, where the quanta are elementary quanta of space. It follows, then, that spacetime has an elementary quantum granular structure at the Planck scale, which cuts off the ultraviolet infinities of quantum field theory.
+
+The quantum state of spacetime is described in the theory by means of a mathematical structure called spin networks. Spin networks were initially introduced by Roger Penrose in abstract form, and later shown by Carlo Rovelli and Lee Smolin to derive naturally from a non-perturbative quantization of general relativity. Spin networks do not represent quantum states of a field in spacetime: they represent directly quantum states of spacetime.
+
+The theory is based on the reformulation of general relativity known as Ashtekar variables, which represent geometric gravity using mathematical analogues of electric and magnetic fields.[43][44] In the quantum theory, space is represented by a network structure called a spin network, evolving over time in discrete steps.[45][46][47][48]
+
+The dynamics of the theory is today constructed in several versions. One version starts with the canonical quantization of general relativity. The analogue of the Schrödinger equation is a Wheeler–DeWitt equation, which can be defined within the theory.[49] In the covariant, or spinfoam formulation of the theory, the quantum dynamics is obtained via a sum over discrete versions of spacetime, called spinfoams. These represent histories of spin networks.
+
+Other approaches
+There are a number of other approaches to quantum gravity. The approaches differ depending on which features of general relativity and quantum theory are accepted unchanged, and which features are modified.[50][51] Examples include:
+
+Asymptotic safety in quantum gravity
+Euclidean quantum gravity
+Causal dynamical triangulation[52]
+Causal fermion systems
+Causal Set Theory
+Covariant Feynman path integral approach
+Group field theory
+Wheeler–DeWitt equation
+Geometrodynamics
+Hořava–Lifshitz gravity
+Integral method[53]
+MacDowell–Mansouri action
+Noncommutative geometry
+Path-integral based models of quantum cosmology[54]
+Regge calculus
+Scale relativity
+Shape Dynamics
+Spontaneous Quantum Gravity[55][56][57]
+String-nets and quantum graphity
+Superfluid vacuum theory a.k.a. theory of BEC vacuum
+Supergravity
+Twistor theory[58]
+Canonical quantum gravity
+Quantum holonomy theory[59]
+Experimental tests
+As was emphasized above, quantum gravitational effects are extremely weak and therefore difficult to test. For this reason, the possibility of experimentally testing quantum gravity had not received much attention prior to the late 1990s. However, in the past decade, physicists have realized that evidence for quantum gravitational effects can guide the development of the theory. Since theoretical development has been slow, the field of phenomenological quantum gravity, which studies the possibility of experimental tests, has obtained increased attention.[60]
+
+The most widely pursued possibilities for quantum gravity phenomenology include violations of Lorentz invariance, imprints of quantum gravitational effects in the cosmic microwave background (in particular its polarization), and decoherence induced by fluctuations in the space-time foam.
+
+ESA's INTEGRAL satellite measured polarization of photons of different wavelengths and was able to place a limit in the granularity of space [61] that is less than 10⁻⁴⁸m or 13 orders of magnitude below the Planck scale .
+
+The BICEP2 experiment detected what was initially thought to be primordial B-mode polarization caused by gravitational waves in the early universe. Had the signal in fact been primordial in origin, it could have been an indication of quantum gravitational effects, but it soon transpired that the polarization was due to interstellar dust interference.[62]
+
+Thought experiments
+As explained above, quantum gravitational effects are extremely weak and therefore difficult to test. For this reason, thought experiments are becoming an important theoretical tool. An important aspect of quantum gravity relates to the question of coupling of spin and spacetime. While spin and spacetime are expected to be coupled,[63] the precise nature of this coupling is currently unknown. In particular and most importantly, it is not known how quantum spin sources gravity and what is the correct characterization of the spacetime of a single spin-half particle. To analyze this question, thought experiments in the context of quantum information, have been suggested.[8] This work shows that, in order to avoid violation of relativistic causality, the measurable spacetime around a spin-half particle's (rest frame) must be spherically symmetric - i.e., either spacetime is spherically symmetric, or somehow measurements of the spacetime (e.g., time-dilation measurements) should create some sort of back action that affects and changes the quantum spin.

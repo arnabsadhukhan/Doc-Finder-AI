@@ -1,0 +1,114 @@
+Economics terminology that differs from common usage
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+In any technical subject, words commonly used in everyday life acquire very specific technical meanings, and confusion can arise when someone is uncertain of the intended meaning of a word. This article explains the differences in meaning between some technical terms used in economics and the corresponding terms in everyday usage.
+
+
+Contents
+1	"Recession"
+2	"Unemployed"
+3	"Money"
+4	"Investment" and "capital"
+5	"Government spending"
+6	"Welfare economics"
+7	"Efficient"
+8	"Cost" and "Profit"
+9	"Demand"
+10	"Supply"
+11	"Marginal"
+12	"Significant"
+13	"Biased"
+14	"Dummy"
+15	"Elasticity"
+16	"Rational"
+17	"Rent"
+18	References
+"Recession"
+Economists commonly use the term "recession" to mean either a period of two successive calendar quarters each having negative growth of real gross domestic product[1][2][3]—that is, of the total amount of goods and services produced within a country—or that provided by the National Bureau of Economic Research[4] (NBER): "...a significant decline in economic activity spread across the country, lasting more than a few months, normally visible in real GDP growth, real personal income, employment (non-farm payrolls), industrial production, and wholesale-retail sales." Almost all economists and policymakers defer to the NBER's determination for the precise dates of a U.S. recession's beginning and end.[5]
+
+In contrast, in non-expert, everyday usage, "recession" may refer to a period in which the unemployment rate is substantially higher than normal.
+
+"Unemployed"
+Labor economists categorize people into three groups: "employed" - actually working at a job, even if part-time; "unemployed" - not working, but looking for work or awaiting a scheduled recall from a temporary layoff; and "not in the labor force" - neither working nor looking for work.[3][6] People not in the labor force, even if they have given up looking for a job despite wanting one, are not considered unemployed. For this reason it is often thought, especially when a recession has persisted for a sustained period, that the unemployment rate understates the true amount of unemployment because some unemployment is disguised by discouraged workers having left the labor force.
+
+The everyday usage of the word "unemployed" is usually broad enough to include disguised unemployment, and may include people with no intention of finding a job. For example, a dictionary definition is: "not engaged in a gainful occupation",[7] which is broader than the economic definition.
+
+"Money"
+Economists use the word "money" to mean very liquid assets which are held at any moment in time.[3][6] The units of measurement are dollars or another currency, with no time dimension, so this is a stock variable. There are several technical definitions of what is included in "money", depending on how liquid a particular type of asset has to be in order to be included. Common measures include M1, M2, and M3.
+
+In everyday usage, "money" can refer to the very liquid assets included in the technical definition, but it usually refers to something much broader. When someone says "She has a lot of money," the intended meaning is almost certainly that she has a lot of what economists would call financial wealth, which includes not only the most liquid assets (which tend to pay low or zero returns), but also stocks, bonds and other financial investments not included in the technical definition. Non-financial assets, such as land and buildings, may also be included. For example, dictionary definitions of money include "wealth reckoned in terms of money" and "persons or interests possessing or controlling great wealth",[8] neither of which correspond to the economic definition.
+
+A related but different everyday usage occurs in the sentence "He makes a lot of money." This refers to a variable that economists call income. Unlike the usages mentioned above, this one has the units "dollars, or another currency, per unit of time", where the unit of time might be a week, month, or year, making it a flow variable.
+
+"Investment" and "capital"
+While financial economists use the word "investment" to refer to the acquisition and holding of potentially income-generating forms of wealth such as stocks and bonds,[9] macroeconomists usually use the word for the sum of fixed investment—the purchasing of a certain amount of newly produced productive equipment, buildings or other productive physical assets per unit of time—and inventory investment—the accumulation of inventories over time.[6] This is one of the major types of expenditure in an economy, the others being consumption expenditure, government expenditure, and expenditure on a country's export goods by people outside the country.
+
+The everyday usage of "investment" coincides with the one used by financial economists—the acquisition and holding of potentially income-generating forms of wealth such as stocks and bonds.[10]
+
+Similarly, while financial economists use the word "capital" to refer to funds used by entrepreneurs and businesses to buy what they need to make their products or to provide their services,[11] macroeconomists and microeconomists use the term capital to mean productive equipment, buildings or other productive physical assets.[12]
+
+As with the term "investment", the everyday usage of "capital" coincides with its use by financial economists.[10]
+
+"Government spending"
+Economists distinguish between government spending on newly produced goods and services, such as paying a company to build a new highway, and government spending on transfer payments, which are payments such as welfare payments intended to redistribute income. In economic models, transfer payments are normally treated as a negative component of "taxes net of transfers", leaving "government spending on (newly produced) goods and services" as a separate category, often referred to simply as "government spending".[3][6]
+
+In everyday usage, "government spending" refers to the broader concept of government spending on goods and services plus transfer payments.
+
+"Welfare economics"
+Welfare economics is a branch of economics that uses microeconomic techniques to evaluate economic well-being, especially relative to competitive general equilibrium, with a focus on economic efficiency and income distribution.[13]
+
+In general usage, including by economists outside the above context, welfare refers to a form of transfer payment.[14]
+
+"Efficient"
+Economists use the word efficient to mean any of several closely related things:[12]
+
+No one can be made better off without making someone else worse off (Pareto efficiency).
+More output cannot be obtained without increasing the amount of inputs.
+Production proceeds at the lowest possible per-unit cost.
+All of these definitions involve the idea that nothing more can be achieved given the resources available.
+
+In popular usage, efficient often has the similar but less precise meaning "functioning effectively".[10]
+
+"Cost" and "Profit"
+The economics term cost, also known as economic cost or opportunity cost, refers to the potential gain that is lost by foregoing one opportunity in order to take advantage of another. The lost potential gain is the cost of the opportunity that is accepted. Sometimes this cost is explicit: for example, if a firm pays $100 for a machine, its cost is $100. Other times, however, the cost is implicit: for example, if a firm diverts resources from producing output worth $200 into producing a different kind of output, then regardless of how much or how little of the latter output is produced, the opportunity cost of doing so is $200.
+
+In accounting, there is a different technical concept of cost, which excludes implicit opportunity costs.
+
+In common usage, as in accounting usage, "cost" typically does not refer to implicit costs and instead only refers to direct monetary costs.
+
+The economics term profit relies on the economic meaning of the term for "cost". While in common usage, profit refers to earnings minus accounting cost, economists mean earnings minus economic cost or opportunity cost.
+
+"Demand"
+In economics, demand refers to the strength of one or many consumers' willingness to purchase a good or goods at a range of different prices. If, for example, a rise in income causes a consumer to be willing to purchase more of a good than before contingent on each possible price, economists say that the income rise has caused the consumer's demand for the good to rise. In contrast, if a change in market conditions leads to a decline in the price of a good resulting in a consumer's being willing to buy more of it, economists say that the consumer's quantity demanded of the good has risen. A change in quantity demanded is represented by a movement along the demand curve, while a change in demand is represented by a shift of the demand curve.[12]
+
+In popular usage a change in "demand" can refer to either what economists call a change in demand or what economists call a change in quantity demanded.
+
+"Supply"
+In economics, supply refers to the strength of one or many producers' willingness to produce and sell a good or goods at any in a range of prices. If, for example, a reduction in production costs causes a producer to be willing to provide more of a good than before contingent on each possible price, economists say that the drop in production costs has caused supply to rise. In contrast, if a change in market conditions leads to a decline in the price of a good resulting in a producer willing to sell less of it, economists say that the consumer's quantity supplied of the good has fallen. A change in quantity supplied is represented by a movement along the supply curve, while a change in supply is represented by a shift of the supply curve.[12]
+
+In popular usage a change in "supply" can refer to either what economists call a change in supply or what economists call a change in quantity supplied.
+
+"Marginal"
+While "marginal" in common usage tends to mean "tangential", implying limited importance, in economics "marginal" means "incremental". For example, the marginal propensity to consume refers to the incremental tendency to spend income on consumer goods: the fraction of any additional income which is spent on additional consumption (or conversely, the fraction of any decrease in income which becomes a decrease in consumption). Likewise, the marginal product of capital refers to the additional production of output that results from using an additional unit of physical capital (machinery, etc.). If very small increments are being considered, so that calculus is used, then this ratio of incremental amounts is a derivative (for example, the marginal propensity to consume becomes the derivative of consumption with respect to income).
+
+"Significant"
+In common usage, "significant" usually means "noteworthy" or "of substantial importance". In econometrics — the use of statistical techniques in economics — "significant" means "unlikely to have occurred by chance". For example, suppose one wishes to find if the minimum wage rate affects firms' decisions on how much labor to hire. If the data show, on the basis of statistical techniques, an effect of a particular non-zero magnitude, one wants to know whether that non-zero magnitude could have arisen in the data by chance when in fact the true effect is zero. If a statistical test shows that there is less than, say, a 5% chance that one would have found this particular value if the true value were zero, then it is said that the estimate is "significant at the 5% level". If not, then it is said that the estimate is "insignificant at the 5% level".
+
+Note, however, that the less precise phrase "economically significant" is sometimes used by economists to mean something very similar to the common usage of "significant". If the effect of the minimum wage on hiring decisions were found to be very small and yet the numerical result is very unlikely to have occurred only by chance, then the estimated effect is said to be statistically significant but not significant economically.
+
+"Biased"
+In common usage "biased" generally means "prejudiced". In econometrics, the estimate of the effect of one thing on another (say, the estimate of the effect of the minimum wage upon employment decisions) is said to be "biased" if the technique that was used to obtain the estimate has the effect that, a priori, the expected value of the estimated effect differs from the true effect, whatever the latter may be. In this case the technique, as well as the estimate obtained with the technique, is called "biased". Researchers are likely to view a biased estimate with suspicion.
+
+"Dummy"
+In common usage, dummy can offensively refer to someone who is silent or unintelligent, or to a mannequin or puppet [15]. In econometrics, "dummy" generally refers to a binary variable that indicates whether a certain quality is present or absent. So, for example, a "male dummy" would refer to a variable indicating that someone is male, rather than referring to an unintelligent male or a male puppet.
+
+"Elasticity"
+In general usage "elasticity" refers to flexibility. In economics it refers to a quantitative measurement of the degree of flexibility of something in response to something else. For example, the "elasticity of demand with respect to income" or the "income elasticity of demand" for a product refers to the percentage change in the quantity of the product demanded in response to a 1% change in consumers' income, or more generally to the ratio of the percentage change in quantity demanded to the percentage change in income. The change in the denominator always causes the change in the numerator, so the elasticity can be said to be the ratio of a percentage change that is caused to the percentage change of something that is causative.
+
+"Rational"
+In general usage, one is said to be rational if one is sane or lucid.[16] In economics, rationality means that an economic agent specifies, or acts as if he implicitly specifies, a way to characterize his or someone's well-being, and then takes into account all relevant information in making choices so as to optimize that well-being. For example, an individual consumer is assumed to be rational in the sense that he maximizes a utility function, which expresses his subjective sense of well-being as a function of the amounts of various goods he consumes; firms are assumed to maximize profit or some related goal. Economists assume that in the presence of uncertainty, an agent is rational in the sense of specifying a way of evaluating sets of possible outcomes (and associated probabilities) with some function: A consumer is assumed to choose his consumption levels of various goods so as to pick the set of possible outcomes, and associated probabilities, that maximizes this function, which is often assumed to be the expected value of a von Neumann-Morgenstern utility function; a firm is often assumed to maximize the expected value of profit.
+
+"Rent"
+In general usage, rent refers to a payment made in exchange for temporary use of property, for example paying rent to stay in an apartment. In economics, rent is any payment to an owner or factor of production in excess of the costs needed to bring that factor into production. Effectively, it is payment made to a producer above and beyond what would have been necessary to incentivize them to produce. It can roughly be understood as unearned revenue.
+
+In many cases, common-usage "rent" is an example of economic-usage "rent", making the distinction between the two confusing.
